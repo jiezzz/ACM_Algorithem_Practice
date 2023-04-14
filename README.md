@@ -1,4 +1,4 @@
-# ACM_Algorithem_Practice
+# ACM_Algorithm_Practice
 ## 目的
 1. 面试题目都是ACM模式的代码
 ## 内容
